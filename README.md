@@ -78,7 +78,7 @@ Open `TCA(1).ipynb` and run all cells.
 ## 👤 Author
 **Swati Shinde**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/swatis16cpu
 
 ## 📄 License
 This project is licensed under the MIT License.
